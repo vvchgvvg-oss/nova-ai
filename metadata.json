@@ -1,0 +1,6 @@
+{
+  "name": "MS Almohtal Portal",
+  "description": "الموقع الرسمي للمطور MS Almohtal للخدمات والأدوات الذكية، الشات الذكي، والتحميل المباشر والقرآن الكريم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
